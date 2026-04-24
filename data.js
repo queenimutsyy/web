@@ -9,9 +9,9 @@ const databaseProyek = {
         link: ""
     },
     "2": {
-        judul: "siswa POS untuk PT ABC",
+        judul: "siswa POS untuk PHP ",
         keahlian: ["JavaScript", "PHP"],
-        gambar: "https://t4.ftcdn.net/jpg/05/12/55/63/360_F_512556304_Q45HQhWMMboFv6jtIAFOpkJtuJHMncx0.jpg",
+        gambar: "https://tamanubud.sgp1.cdn.digitaloceanspaces.com/gambar/81458845496-77723555319-bd2_6f5_636_330-1-original.jpg",
         latar: "This is my project",
         tantangan: "",
         pelajaran: "",
