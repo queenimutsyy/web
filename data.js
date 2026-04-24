@@ -11,7 +11,7 @@ const databaseProyek = {
     "2": {
         judul: "siswa POS untuk PT ABC",
         keahlian: ["JavaScript", "PHP"],
-        gambar: "https://static.vecteezy.com/system/resources/thumbnails/008/997/535/small/abc-logo-abc-letter-abc-letter-logo-design-intitials-abc-logo-linked-with-circle-and-uppercase-monogram-logo-abc-typography-for-technology-business-and-real-estate-brand-vector.jpg",
+        gambar: "https://t4.ftcdn.net/jpg/05/12/55/63/360_F_512556304_Q45HQhWMMboFv6jtIAFOpkJtuJHMncx0.jpg",
         latar: "This is my project",
         tantangan: "",
         pelajaran: "",
